@@ -1,4 +1,4 @@
-# ACORN Demo JAR
+# REX Demo JAR
 ### Description
 - java version :: 17.0.12
 - maven version :: 3.8.1
